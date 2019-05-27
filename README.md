@@ -30,7 +30,6 @@ If the tweet polarity is more than 0 it will be 'POSITIVE' or if less than 0 it 
 
 I plot the data of sentiment on bar graph to see how many tweets are positive, negative or neutral, as the data will lie between -1 to 1.
 
-![GitHub Logo](/Figure_1.png)
-Format: ![Alt Text](url)
+![Figure](/Figure_1.png)
 
 
